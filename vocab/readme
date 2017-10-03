@@ -1,1 +1,4 @@
-
+Also add word embeddings (padding_unknown_300d.txt and deps.words)
+Both files have tab separated word vectors.
+Example: 300-d embeddings
+word  1.23 3.42 ...... 2.34
